@@ -1,4 +1,3 @@
-open class DataSekolah {
-    var nama = ""
-    var id = 0
+open class DataSekolah(var nama:String,var id:Int) {
+
 }
